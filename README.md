@@ -3,10 +3,10 @@
 [stylelint](https://github.com/stylelint/stylelint) plagin to specify a pattern for custom tag selectors
 
 ```bash
-yarn -D stylelint-selector-custom-tag-pattern
+yarn add -D stylelint-selector-custom-tag-pattern
 ```
 
-.stylelintrc
+**.stylelintrc**
 ```json
 {
   "plugins": [
