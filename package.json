@@ -1,6 +1,6 @@
 {
   "name": "stylelint-selector-custom-tag-pattern",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stylelint plagin to specify a pattern for custom tag selectors",
   "main": "index.js",
   "repository": "https://github.com/nskazki/stylelint-selector-custom-tag-pattern",
