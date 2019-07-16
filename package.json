@@ -7,7 +7,7 @@
   "author": "nskazki <nskazki@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "stylelint": "^7.10.1"
+    "stylelint": "*"
   },
   "dependencies": {
     "html-tags": "3.0.0",
