@@ -10,7 +10,7 @@
     "stylelint": "*"
   },
   "dependencies": {
-    "html-tags": "^3.0.0",
+    "html-tags": "3.1.0",
     "lodash": "^4.17.14",
     "mathml-tag-names": "^2.1.1",
     "svg-tags": "^1.0.0"
