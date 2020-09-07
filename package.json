@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "html-tags": "^3.1.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.20",
     "mathml-tag-names": "^2.1.3",
     "svg-tags": "^1.0.0"
   }
